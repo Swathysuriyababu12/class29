@@ -1,0 +1,10 @@
+.Aclass {
+  display: flex;
+  flex: 6;
+  flex-direction: column;
+  padding: 5px;
+}
+.Bclass {
+  display: flex;
+  margin: 10px;
+}
